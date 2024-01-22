@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luke Cheng, Computer Engineering Major, Expected Graduation in 2027
+- 👋 Hi, I’m Luke Cheng, Computer Engineering Major, UC Irvine, Expected Graduation in 2027
 - 👀 I’m interested in positions in either hardware or software 
 - 🌱 I’m currently learning: C, SQL, CSS, HTML - Previous experience with Python
 - 📫 How to reach me: lujo.cheng12@gmail.com, (425)-638-9075
